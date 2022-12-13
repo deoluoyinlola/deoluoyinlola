@@ -1,8 +1,8 @@
 👋 Hi, 
 - I am Adeolu Oyinlola.
 - A little about me;
-    - My Tech life started almost 2 years ago. When I transitioned from `Mobility Consultant`  --> `Software Engineer`  --> `DevOps/Cloud Engineer`
-    - I love automation, scripting, problem-solving and learning new skills to solve different challenges.
+    - :computer: My Tech life started almost 2 years ago. When I transitioned from `Mobility Consultant`  --> `Software Engineer`  --> `DevOps/Cloud Engineer`
+    - :blue_heart: I love automation, scripting, problem-solving and learning new skills to solve different challenges.
     - 👀 I’m interested in `Microservices`, `Distributed applications`, `Machine Learning`.
     - 🌱 I’m continuously learning `Linux`, `Kubernetes`, `AWS services`, `Terraform`, `istio`, `helm`, `Prometheus`, `ML`, `Python`, `Bash`, `Golang`.
     - 💞️ I’m looking to collaborate on `finTech`, `Mobility` and `Ecommerce` projects
