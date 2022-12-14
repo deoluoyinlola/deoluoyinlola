@@ -6,7 +6,7 @@
     - 👀 I’m interested in `Microservices`, `Distributed applications`, `Machine Learning`.
     - 🌱 I’m continuously learning `Linux`, `Kubernetes`, `AWS services`, `Terraform`, `istio`, `helm`, `Prometheus`, `ML`, `Python`, `Bash`, `Golang`.
     - 💞️ I’m looking to collaborate on `finTech`, `Mobility` and `Ecommerce` projects
-- 📫 How to reach me https://www.linkedin.com/in/deoluoyinlola/
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
 - Below are the repositories that I used in my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitHub`, `Prometheus`, `Grafana`, `Linux`, `Machine Learnig`, `Python`, `Bash Scripting`.
 
 | Repository Name | Description |
