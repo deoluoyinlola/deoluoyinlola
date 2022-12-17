@@ -12,11 +12,11 @@
 
 | Repository Name | Description |
 | --- | --- |
-| [eksctl-helm](https://github.com/deoluoyinlola/eksctl-kubernetes-cluster-helm-prometheus) | Kubernetes cluster provisioning with eksctl and manage by helm. |
-| [terraform-nginx-in-aws](https://github.com/deoluoyinlola/terraform-nginx-in-aws) | Deploy JS app to AWS virtual machine, using terraform to provision AWS resources. |
+| [eksctl helm](https://github.com/deoluoyinlola/eksctl-kubernetes-cluster-helm-prometheus) | Kubernetes cluster provisioning with eksctl and manage by helm. |
+| [terraform nginx in aws](https://github.com/deoluoyinlola/terraform-nginx-in-aws) | Deploy JS app to AWS virtual machine, using terraform to provision AWS resources. |
 | [aws services hands-on series](https://github.com/deoluoyinlola/aws-services-hands-on-series) | Hands-on projects on series of aws services. |
-| [jenkins-server-in-aws](https://github.com/deoluoyinlola/jenkins-server-in-aws) | Create Jenkins server inside AWS. Also, building automation in multi-branch pipeline while changes in Jenkinsfile will be trigger by GitHub webhook. |
-| [dockerize-reactjs-app](https://github.com/deoluoyinlola/dockerize-reactjs-app) | Repository of how I dockerize MERN app. |
+| [jenkins server in aws](https://github.com/deoluoyinlola/jenkins-server-in-aws) | Create Jenkins server inside AWS. Also, building automation in multi-branch pipeline while changes in Jenkinsfile will be trigger by GitHub webhook. |
+| [dockerize reactjs app](https://github.com/deoluoyinlola/dockerize-reactjs-app) | Repository of how I dockerize MERN app. |
 
 
 <!---
