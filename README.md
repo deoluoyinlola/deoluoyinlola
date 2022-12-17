@@ -12,7 +12,7 @@
 
 | Repository Name | Description |
 | --- | --- |
-| [eksctl-helm-prometheus](https://github.com/deoluoyinlola/eksctl-kubernetes-cluster-helm-prometheus) | Kubernetes cluster provisioning with eksctl, manage by helm and monitor with prometheus and grafana. |
+| [eksctl-helm](https://github.com/deoluoyinlola/eksctl-kubernetes-cluster-helm-prometheus) | Kubernetes cluster provisioning with eksctl and manage by helm. |
 | [terraform-nginx-in-aws](https://github.com/deoluoyinlola/terraform-nginx-in-aws) | Deploy JS app to AWS virtual machine, using terraform to provision AWS resources. |
 | [microservices-demo](https://github.com/deoluoyinlola/microservices-demo) | I implemented the sample cloud-native application with 11 microservices showcasing Kubernetes and managed by Helm. Original repo; [Google Sample](https://github.com/GoogleCloudPlatform/microservices-demo) |
 | [jenkins-server-in-aws](https://github.com/deoluoyinlola/jenkins-server-in-aws) | Create Jenkins server inside AWS. Also, building automation in multi-branch pipeline while changes in Jenkinsfile will be trigger by GitHub webhook. |
