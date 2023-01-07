@@ -1,14 +1,14 @@
 👋 Hi, 
 - I am Adeolu Oyinlola.
 - A little about me;
-    - :computer: My Tech life started almost 2 years ago. When I transitioned from `Mobility Consultant`  --> `Software Engineer`  --> `DevOps/Cloud Engineer`
-    - :blue_heart: I love automation, scripting, problem-solving and learning new skills to solve different challenges.
-    - 👀 I’m interested in Microservices, Distributed applications, Machine Learning.
-    - 🌱 I’m continuously learning Linux, Kubernetes, AWS services, Terraform, helm, Prometheus, ML, Python, Bash, Golang.
-    - 💞️ I’m looking to collaborate on finTech, Mobility and Ecommerce projects
+    - :computer: My journey into Tech life started over 2 years ago. When I transitioned from `Mobility Consultant`  --> `Software Engineer` and now `DevOps/Cloud Engineer`
+    - :blue_heart: I love troubleshooting, automation, continuous deployment, problem-solving and learning new skills to solve different challenges.
+    - 👀 I’m interested in Agile SDLC, Microservices, Distributed applications.
+    - 🌱 I’m continuously learning DevOps and MLOps culture, Linux, Kubernetes, AWS services, Terraform, Helm, Prometheus, Python, Bash, Golang.
+    - 💞️ I’m looking to collaborate on finTech, Mobility, Ecommerce or/and MLOps projects
     - :fountain_pen: I somtime write technical blog [dev.to](https://dev.to/deoluoyinlola/)
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
-- Below are the some of repositories that I used in my AWS/DevOps journey while learning different AWS Services, Kubernetes, Docker, Terraform, Helm, Jenkins, GitHub, Prometheus, Grafana, Linux, Python, Bash Scripting.
+- Below are the some of repositories that I have worked on in my AWS/DevOps journey while learning different tools and services.
 
 | Repository Name | Description |
 | --- | --- |
