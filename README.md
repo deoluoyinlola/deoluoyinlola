@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Adeolu Oyinlola! Pleasure to meet you!</h1>
 <h3 align="center">A PASSIONATE DevOps | Cloud Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deoluoyinlola&label=Profile%20views&color=0e75b6&style=flat" alt="steve0c" /> </p>
+
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 - A little about me;
     - :computer: My journey into Tech life started over 2 years ago. When I transitioned from `Mobility Consultant`  --> `Software Engineer` and now `DevOps/Cloud Engineer`
@@ -57,11 +59,11 @@
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=steve0c&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=deoluoyinlola&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deoluoyinlola&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=steve0c%2Fsteve0c&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2Fsteve0c)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=deoluoyinlola%2Fdeoluoyinlola&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=deoluoyinlola%2Fdeoluoyinlola)
 
 
 
