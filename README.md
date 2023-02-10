@@ -20,7 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-deoluoyinlola@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deoluoyinlola@gmail.com)](mailto:deoluoyinlola@gmail.com)
 
     
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
+- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
 - Below are the some of repositories that I have worked on in my AWS/DevOps journey while learning different tools and services.
 
 | Repository Name | Description |
@@ -43,6 +43,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
