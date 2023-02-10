@@ -1,9 +1,9 @@
 <!-- put landscape image here-->
 
 <h1 align="center">Hi 👋, I'm Adeolu Oyinlola! Pleasure to meet you!</h1>
-<h3 align="center">A PASSIONATE DevOps | Cloud Engineer</h3>
+<h3 align="center">A highly-motivated Cloud/DevOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deoluoyinlola&label=Profile%20views&color=0e75b6&style=flat" alt="steve0c" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deoluoyinlola&label=Profile%20views&color=0e75b6&style=flat" alt="deoluoyinlola" /> </p>
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 - A little about me;
