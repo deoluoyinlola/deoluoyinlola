@@ -30,7 +30,7 @@
 | [terraform-nginx-in-aws](https://github.com/deoluoyinlola/terraform-nginx-in-aws) | Deploy JS app to AWS virtual machine, using terraform to provision AWS resources. |
 | [aws-services-hands-on-series](https://github.com/deoluoyinlola/aws-services-hands-on-series) | Hands-on projects on series of aws services. |
 | [jenkins-server-in-aws](https://github.com/deoluoyinlola/jenkins-server-in-aws) | Create Jenkins server inside AWS. Also, building automation in multi-branch pipeline while changes in Jenkinsfile will be trigger by GitHub webhook. |
-| [aws-bootcamp-cruddur-2023](https://github.com/deoluoyinlola/dockerize-reactjs-app) | Design, build and deploy disposable micro-blogging platform following Andrew's bootcamp. |
+| [aws-bootcamp-cruddur-2023](https://github.com/deoluoyinlola/aws-bootcamp-cruddur-2023) | Design, build and deploy disposable micro-blogging platform following Andrew's bootcamp. |
 
 
 ## ⚡ Technologies
