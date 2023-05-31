@@ -7,7 +7,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 - A little about me;
-    - :computer: My journey into Tech life started over 3 years ago. When I transitioned from `Mobility Consultant`  --> `Software Engineer` and now `DevOps/Cloud Engineer`
+    - :computer: My journey into Tech life started over 2 years ago. When I transitioned from `Mobility Consultant`  -->  `Cloud/DevOps Engineer`
     - :blue_heart: I love troubleshooting, automation, continuous deployment, problem-solving and learning new skills to solve different challenges.
     - 👀 I’m interested in Agile SDLC, Microservices, Distributed system, MLOps and Cybersecurity.
     - 🌱 I’m continuously learning DevOps, GitOps and MLOps culture, Linux, Kubernetes, ArgoCD, AWS services, Terraform, Helm, Prometheus, Python, Bash, Golang.
