@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Adeolu Oyinlola! Pleasure to meet you!</h1>
 <h3 align="center">A highly-motivated Cloud/DevOps Engineer</h3>
 
+![Linkedin Badge](https://img.shields.io/badge/-Adeolu%20Oyinlola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/deoluoyinlola/)
+[![Dev.to Badge](https://img.shields.io/badge/Adeolu%20Oyinlola-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/deoluoyinlola)]([https://dev.to/deoluoyinlola]/)
+[![Gmail Badge](https://img.shields.io/badge/-deoluoyinlola@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deoluoyinlola@gmail.com)](mailto:deoluoyinlola@gmail.com)
+
+https://deoluoyinlola.netlify.app/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deoluoyinlola&label=Profile%20views&color=0e75b6&style=flat" alt="deoluoyinlola" /> </p>
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
@@ -14,10 +19,6 @@
     - 💞️ I’m looking to collaborate on finTech, Mobility, Ecommerce or/and MLOps projects
     - :fountain_pen: I somtime write technical blog [dev.to](https://dev.to/deoluoyinlola/)
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Adeolu%20Oyinlola) -->
-
-![Linkedin Badge](https://img.shields.io/badge/-Adeolu%20Oyinlola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/deoluoyinlola/)
-[![Dev.to Badge](https://img.shields.io/badge/Adeolu%20Oyinlola-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/deoluoyinlola)]([https://dev.to/deoluoyinlola]/)
-[![Gmail Badge](https://img.shields.io/badge/-deoluoyinlola@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deoluoyinlola@gmail.com)](mailto:deoluoyinlola@gmail.com)
 
     
 - 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
