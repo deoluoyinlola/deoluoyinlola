@@ -4,7 +4,6 @@
 <h3 align="center">A highly-motivated Cloud/DevOps Engineer</h3>
 
 ![Linkedin Badge](https://img.shields.io/badge/-Adeolu%20Oyinlola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/deoluoyinlola/)
-[![Dev.to Badge](https://img.shields.io/badge/Adeolu%20Oyinlola-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://dev.to/deoluoyinlola)]([https://dev.to/deoluoyinlola]/)
 [![Gmail Badge](https://img.shields.io/badge/-deoluoyinlola@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deoluoyinlola@gmail.com)](mailto:deoluoyinlola@gmail.com)
 
 https://deoluoyinlola.netlify.app/
@@ -15,22 +14,20 @@ https://deoluoyinlola.netlify.app/
     - :computer: My journey into Tech life started over 2 years ago. When I transitioned from `Mobility Consultant`  -->  `Cloud/DevOps Engineer`
     - :blue_heart: I love troubleshooting, automation, continuous deployment, problem-solving and learning new skills to solve different challenges.
     - 👀 I’m interested in Agile SDLC, Microservices, Distributed system, MLOps and Cybersecurity.
-    - 🌱 I’m continuously learning DevOps, GitOps and MLOps culture, Linux, Kubernetes, ArgoCD, AWS services, Terraform, Helm, Prometheus, Python, Bash, Golang.
+    - 🌱 I’m continuously learning DevOps & MLOps culture, Platform Engineering, Linux, Kubernetes, Airflow, AWS services, Terraform, Helm, Prometheus, Python, Bash, Golang.
     - 💞️ I’m looking to collaborate on finTech, Mobility, Ecommerce or/and MLOps projects
-    - :fountain_pen: I somtime write technical blog [dev.to](https://dev.to/deoluoyinlola/)
+    - :fountain_pen: I somtime write blog [dev.to](https://dev.to/deoluoyinlola/) & [medium.com](https://medium.com/@deoluoyinlola))
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Adeolu%20Oyinlola) -->
 
-    
-- 📫 How to reach me on [LinkedIn](https://www.linkedin.com/in/deoluoyinlola/)
 - Below are the some of repositories that I have worked on in my AWS/DevOps journey while learning different tools and services.
 
 | Repository Name | Description |
 | --- | --- |
-| [automation-with-bash-and-python](https://github.com/deoluoyinlola/automation-with-bash-and-python) | Collection of utility and automation scripts for infrastructure, application, service and users written in bash and python for linux environment. |
+| [devops-projects](https://github.com/deoluoyinlola/devops-projects) | DevOps projects with guides from various tutorials, bootcamp exercises and curated curriculums. |
 | [aws-eksctl-helm](https://github.com/deoluoyinlola/eksctl-kubernetes-cluster-helm-prometheus) | Kubernetes cluster provisioning with eksctl and manage by helm. |
 | [terraform-nginx-in-aws](https://github.com/deoluoyinlola/terraform-nginx-in-aws) | Deploy JS app to AWS virtual machine, using terraform to provision AWS resources. |
 | [aws-services-hands-on-series](https://github.com/deoluoyinlola/aws-services-hands-on-series) | Hands-on projects on series of aws services. |
-| [jenkins-server-in-aws](https://github.com/deoluoyinlola/jenkins-server-in-aws) | Create Jenkins server inside AWS. Also, building automation in multi-branch pipeline while changes in Jenkinsfile will be trigger by GitHub webhook. |
+| [automation-with-bash-and-python](https://github.com/deoluoyinlola/automation-with-bash-and-python) | Collection of utility and automation scripts for infrastructure, application, service and users written in bash and python for linux environment. |
 | [aws-bootcamp-cruddur-2023](https://github.com/deoluoyinlola/aws-bootcamp-cruddur-2023) | Design, build and deploy disposable micro-blogging platform following Andrew's bootcamp. |
 
 
