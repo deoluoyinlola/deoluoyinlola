@@ -1,6 +1,7 @@
 <!-- put landscape image here-->
 
-<h1 align="center">Hi 👋, I'm Adeolu Oyinlola! Pleasure to meet you!</h1>
+<h1 align="center">Hi 👋</h1>
+<h2 align="center">I'm Adeolu Oyinlola! Pleasure to meet you!</h2>
 <h3 align="center">A highly-motivated Cloud/DevOps Engineer</h3>
 
 ![Linkedin Badge](https://img.shields.io/badge/-Adeolu%20Oyinlola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/deoluoyinlola/)
@@ -16,7 +17,7 @@ https://deoluoyinlola.netlify.app/
     - 👀 I’m interested in Agile SDLC, Microservices, Distributed system, MLOps and Cybersecurity.
     - 🌱 I’m continuously learning DevOps & MLOps culture, Platform Engineering, Linux, Kubernetes, Airflow, AWS services, Terraform, Helm, Prometheus, Python, Bash, Golang.
     - 💞️ I’m looking to collaborate on finTech, Mobility, Ecommerce or/and MLOps projects
-    - :fountain_pen: I somtime write blog [dev.to](https://dev.to/deoluoyinlola/) & [medium.com](https://medium.com/@deoluoyinlola))
+    - :fountain_pen: I sometime write blog [dev.to](https://dev.to/deoluoyinlola/) & [medium.com](https://medium.com/@deoluoyinlola)
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Adeolu%20Oyinlola) -->
 
 - Below are the some of repositories that I have worked on in my AWS/DevOps journey while learning different tools and services.
